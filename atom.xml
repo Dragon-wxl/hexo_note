@@ -68,32 +68,6 @@
   </entry>
   
   <entry>
-    <title>关于Jekyll和Hexo</title>
-    <link href="https://dragon-wxl.github.io/note-hexo/2020/12/30/%E5%B9%B3%E5%8F%B0%E7%8E%AF%E5%A2%83/2020-12-30-%E9%9D%99%E6%80%81%E5%8D%9A%E5%AE%A2%E6%A1%86%E6%9E%B6/"/>
-    <id>https://dragon-wxl.github.io/note-hexo/2020/12/30/%E5%B9%B3%E5%8F%B0%E7%8E%AF%E5%A2%83/2020-12-30-%E9%9D%99%E6%80%81%E5%8D%9A%E5%AE%A2%E6%A1%86%E6%9E%B6/</id>
-    <published>2020-12-29T16:00:00.000Z</published>
-    <updated>2021-01-04T16:15:04.185Z</updated>
-    
-    <content type="html"><![CDATA[<h4 id="Hexo-Jekyll"><a class="header-anchor" href="#Hexo-Jekyll">¶</a>Hexo Jekyll</h4><pre><code>jekyll 基于ruby Hexo 基于Nodejs</code></pre>]]></content>
-    
-    
-      
-      
-    <summary type="html">&lt;h4 id=&quot;Hexo-Jekyll&quot;&gt;&lt;a class=&quot;header-anchor&quot; href=&quot;#Hexo-Jekyll&quot;&gt;¶&lt;/a&gt;Hexo Jekyll&lt;/h4&gt;
-&lt;pre&gt;&lt;code&gt;jekyll 基于ruby 
-Hexo 基于Nodejs&lt;/code&gt;&lt;/pre&gt;</summary>
-      
-    
-    
-    
-    <category term="平台环境" scheme="https://dragon-wxl.github.io/note-hexo/categories/%E5%B9%B3%E5%8F%B0%E7%8E%AF%E5%A2%83/"/>
-    
-    
-    <category term="jekyll" scheme="https://dragon-wxl.github.io/note-hexo/tags/jekyll/"/>
-    
-  </entry>
-  
-  <entry>
     <title>markdown的语法</title>
     <link href="https://dragon-wxl.github.io/note-hexo/2020/12/30/%E5%B9%B3%E5%8F%B0%E7%8E%AF%E5%A2%83/2020-12-30-markdown%E7%9A%84%E8%AF%AD%E6%B3%95/"/>
     <id>https://dragon-wxl.github.io/note-hexo/2020/12/30/%E5%B9%B3%E5%8F%B0%E7%8E%AF%E5%A2%83/2020-12-30-markdown%E7%9A%84%E8%AF%AD%E6%B3%95/</id>
@@ -134,6 +108,32 @@ Hexo 基于Nodejs&lt;/code&gt;&lt;/pre&gt;</summary>
     <summary type="html">&lt;h1&gt;jekyll ruby 过程&lt;/h1&gt;
 &lt;h4 id=&quot;gem的nokogiri-报错执行命令&quot;&gt;&lt;a class=&quot;header-anchor&quot; href=&quot;#gem的nokogiri-报错执行命令&quot;&gt;¶&lt;/a&gt;gem的nokogiri 报错执行命令&lt;/h4&gt;
 &lt;fig</summary>
+      
+    
+    
+    
+    <category term="平台环境" scheme="https://dragon-wxl.github.io/note-hexo/categories/%E5%B9%B3%E5%8F%B0%E7%8E%AF%E5%A2%83/"/>
+    
+    
+    <category term="jekyll" scheme="https://dragon-wxl.github.io/note-hexo/tags/jekyll/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>关于Jekyll和Hexo</title>
+    <link href="https://dragon-wxl.github.io/note-hexo/2020/12/30/%E5%B9%B3%E5%8F%B0%E7%8E%AF%E5%A2%83/2020-12-30-%E9%9D%99%E6%80%81%E5%8D%9A%E5%AE%A2%E6%A1%86%E6%9E%B6/"/>
+    <id>https://dragon-wxl.github.io/note-hexo/2020/12/30/%E5%B9%B3%E5%8F%B0%E7%8E%AF%E5%A2%83/2020-12-30-%E9%9D%99%E6%80%81%E5%8D%9A%E5%AE%A2%E6%A1%86%E6%9E%B6/</id>
+    <published>2020-12-29T16:00:00.000Z</published>
+    <updated>2021-01-04T16:15:04.185Z</updated>
+    
+    <content type="html"><![CDATA[<h4 id="Hexo-Jekyll"><a class="header-anchor" href="#Hexo-Jekyll">¶</a>Hexo Jekyll</h4><pre><code>jekyll 基于ruby Hexo 基于Nodejs</code></pre>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h4 id=&quot;Hexo-Jekyll&quot;&gt;&lt;a class=&quot;header-anchor&quot; href=&quot;#Hexo-Jekyll&quot;&gt;¶&lt;/a&gt;Hexo Jekyll&lt;/h4&gt;
+&lt;pre&gt;&lt;code&gt;jekyll 基于ruby 
+Hexo 基于Nodejs&lt;/code&gt;&lt;/pre&gt;</summary>
       
     
     
